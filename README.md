@@ -1,0 +1,2 @@
+# lu
+projeto pensamento computasional
